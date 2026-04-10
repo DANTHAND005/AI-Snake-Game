@@ -1,7 +1,5 @@
 # AI Snake — Deep Q-Learning
 **Daniel Than | Northern Kentucky University**
-Based on research presented at Spring Celebration 2025
-
 ---
 
 ## Project Structure
